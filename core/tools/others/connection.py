@@ -1,5 +1,5 @@
 import socket
-from core.tools.others.loader import *
+from .loader import *
 
 ld = Loader()
 

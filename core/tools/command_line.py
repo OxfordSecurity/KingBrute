@@ -1,4 +1,4 @@
-from core.tools.others.loader import *
+from .others.loader import *
 
 ld = Loader()
 class CommandLine:
